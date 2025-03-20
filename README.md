@@ -42,10 +42,25 @@ my-app/
 └── yarn.lock
 ```
 
-## ⚙️ Executando os testes
+## ⚙️ Executando os testes /App.js
 
+```
+import React from 'react';
+import './App.css';
 
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1>App Template - React!</h1>
+      </header>
+    </div>
+  );
+}
 
+export default App;
+
+```
 
 ## 📦 Implantação
 
@@ -62,9 +77,8 @@ Isso criará uma versão otimizada da sua aplicação na pasta build/,
 pronta para ser implantada em um servidor web.
 
 
-
 ## 📌 Versão 0.0.1
 
-## ✒️ Autor - sidnei r. quintal
+✒️ Autor - sidnei r. quintal
 
-### developmented - 2025 -  @squintal73
+developmented - 2025 -  @squintal73
