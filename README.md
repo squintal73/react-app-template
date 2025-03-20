@@ -10,7 +10,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando <Template-react-app>
 
-Para instalar o <Template-react-app>, siga estas etapas:
+- execute:
 
 ```
 npx create-react-app my-app
@@ -42,29 +42,19 @@ my-app/
 └── yarn.lock
 ```
 
-## ⚙️ Executando os testes /App.js
+## ⚙️ Executando
 
 ```
-import React from 'react';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <h1>App Template - React!</h1>
-      </header>
-    </div>
-  );
-}
-
-export default App;
+npm start - "react-scripts start",
+npm build - "react-scripts build",
+npm test  - "react-scripts test",
+npm eject - "react-scripts eject"
 
 ```
 
 ## 📦 Implantação
 
-# Compilar para produção 
+- Compilar para produção 
 
 Quando você estiver pronto para publicar sua aplicação,
 você pode compilar o código para produção com o seguinte comando:
@@ -77,8 +67,6 @@ Isso criará uma versão otimizada da sua aplicação na pasta build/,
 pronta para ser implantada em um servidor web.
 
 
-## 📌 Versão 0.0.1
+- 📌 Versão 0.0.1
 
-✒️ Autor - sidnei r. quintal
-
-developmented - 2025 -  @squintal73
+- ✒️  Author - squintal - 2025 -  @squintal73
