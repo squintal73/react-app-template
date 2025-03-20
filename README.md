@@ -14,11 +14,10 @@ Para instalar o <Template-react-app>, siga estas etapas:
 
 ```
 npx create-react-app my-app
+```
 
 ```
 cd my-app
-
-```
 npm start
 ```
 #
