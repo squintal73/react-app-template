@@ -34,6 +34,11 @@ my-app/
 
 ## ⚙️ Executando os testes
 
+
+
+
+## 📦 Implantação
+
 # Compilar para produção 
 
 Quando você estiver pronto para publicar sua aplicação,
@@ -45,3 +50,11 @@ npm run build
 
 Isso criará uma versão otimizada da sua aplicação na pasta build/,
 pronta para ser implantada em um servidor web.
+
+
+
+## 📌 Versão 0.0.1
+
+## ✒️ Autor - sidnei r. quintal
+
+### developmented - 2025 -  @squintal73
